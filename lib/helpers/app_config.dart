@@ -3,7 +3,7 @@ const DEFAULT_COUNTRY = "IN";
 
 //! URLS
 //Edit Urls
-const WEBSITE_URL = "https://we-ridetest.000webhostapp.com/";
+const WEBSITE_URL = "https://flybuy.site/nex/";
 const HELP_CENTER_URL = "https://we-ridetest.000webhostapp.com/";
 const FAQ_URL = "https://we-ridetest.000webhostapp.com/";
 const PRIVACY_POLICY_URL = "https://we-ridetest.000webhostapp.com/";
