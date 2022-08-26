@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "658973956626",
+    "project_id": "notional-device-350919",
+    "storage_bucket": "notional-device-350919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658973956626:android:abd2d7d4a2fcbcb1a556cb",
+        "android_client_info": {
+          "package_name": "com.phoenix.nex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658973956626-bskv677jj2ghr2sv1ninqj56duqt9ta9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phoenix.nex",
+            "certificate_hash": "9c26522b64d665da33562a6c22974663e9a7c77c"
+          }
+        },
+        {
+          "client_id": "658973956626-0d6ho8tgi0nr9kfp45nuo2e5vdsu534n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwCaOPp7dFVw1_Zgff3ouck43t7A-G3G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658973956626-0d6ho8tgi0nr9kfp45nuo2e5vdsu534n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
