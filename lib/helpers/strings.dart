@@ -3,8 +3,8 @@ import 'dart:math';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
-const APP_NAME = "Kryptonia";
-const COMPANY_NAME = "Kryptonia Inc";
+const APP_NAME = "Nex";
+const COMPANY_NAME = "Phoenix";
 
 const ID = "id";
 const NAME = "name";
