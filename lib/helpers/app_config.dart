@@ -1,16 +1,16 @@
-const DEFAULT_COUNTRY_PREFIX = "+32";
-const DEFAULT_COUNTRY = "BE";
+const DEFAULT_COUNTRY_PREFIX = "+91";
+const DEFAULT_COUNTRY = "IN";
 
 //! URLS
 //Edit Urls
-const WEBSITE_URL = "https://";
-const HELP_CENTER_URL = "https://";
-const FAQ_URL = "https://";
-const PRIVACY_POLICY_URL = "https://";
-const KYC_AML_URL = "https://";
-const TERMS_URL = "https://";
-const SUPPORT_URL = "https://";
-const MAKE_SUGGESTION_URL = "https://";
+const WEBSITE_URL = "https://we-ridetest.000webhostapp.com/";
+const HELP_CENTER_URL = "https://we-ridetest.000webhostapp.com/";
+const FAQ_URL = "https://we-ridetest.000webhostapp.com/";
+const PRIVACY_POLICY_URL = "https://we-ridetest.000webhostapp.com/";
+const KYC_AML_URL = "https://we-ridetest.000webhostapp.com/";
+const TERMS_URL = "https://we-ridetest.000webhostapp.com/";
+const SUPPORT_URL = "https://we-ridetest.000webhostapp.com/";
+const MAKE_SUGGESTION_URL = "https://we-ridetest.000webhostapp.com/";
 
 //! Socials
 // Edit Socials
